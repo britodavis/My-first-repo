@@ -1,15 +1,14 @@
-<<<<<<< Updated upstream
+
 123
 
+
 second line
-=======
-<<<<<<< Updated upstream
-123
-=======
-123
+
+
+
+
+
 
 brito 
 
 mable
->>>>>>> Stashed changes
->>>>>>> Stashed changes
