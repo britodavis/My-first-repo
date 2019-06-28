@@ -16,13 +16,12 @@ mable
 
 jiju
 added new line from jiju
-<<<<<<< HEAD
+
 
 created branch cpe-456
-=======
 created cpe-123 branch
 added new line from jiju
->>>>>>> 5bee98de26970798df28f8773cab80dc729595f0
+
 
 
 majnu
